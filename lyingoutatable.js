@@ -90,5 +90,8 @@ function drawIt(data) {
 
 module.exports = {
   drawIt: drawIt,
-  drawTable: drawTable
+  drawTable: drawTable,
+  TextCell: TextCell,
+  UnderlinedCell: UnderlinedCell,
+  RTextCell: RTextCell
 };
