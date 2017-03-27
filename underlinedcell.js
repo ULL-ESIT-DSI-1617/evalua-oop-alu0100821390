@@ -1,3 +1,5 @@
+"use strict";
+
 // UnderlinedCell Class
 
 class UnderlinedCell {

@@ -1,3 +1,5 @@
+"use strict";
+
 var TextCell = require("./textcell.js").TextCell;
 
 

@@ -1,3 +1,5 @@
+"use strict";
+
 // TextCell Class
 
 class TextCell {

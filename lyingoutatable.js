@@ -1,3 +1,5 @@
+"use strict";
+
 var TextCell = require("./textcell.js").TextCell;
 var UnderlinedCell = require("./underlinedcell.js").UnderlinedCell;
 var RTextCell = require("./rtextcell.js").RTextCell;
